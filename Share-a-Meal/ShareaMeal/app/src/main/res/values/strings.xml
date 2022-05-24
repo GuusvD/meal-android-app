@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Share-a-Meal</string>
+    <string name="isVeganText">Veganistisch </string>
+    <string name="isVegaText">Vegetarisch </string>
+    <string name="isActiveText">Is actief </string>
+    <string name="isToTakeHomeText">Naar huis meenemen </string>
+    <string name="buttonDetailText">Aanmelden</string>
+</resources>

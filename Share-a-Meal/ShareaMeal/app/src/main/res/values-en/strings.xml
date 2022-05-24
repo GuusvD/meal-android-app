@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Share-a-Meal</string>
+    <string name="isVeganText">Vegan </string>
+    <string name="isVegaText">Vega </string>
+    <string name="isActiveText">Is active </string>
+    <string name="isToTakeHomeText">Take home </string>
+    <string name="buttonDetailText">Sign up</string>
+</resources>
